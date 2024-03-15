@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "ada",
+			"configuration": {
+				"kind": "cleanProject",
+				"projectFile": "D:\\Work\\Git\\jtt-org\\jtt-org\\default.gpr",
+				"args": []
+			},
+			"problemMatcher": [
+				"$ada"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"label": "ada: Clean current project"
+		}
+	]
+}
