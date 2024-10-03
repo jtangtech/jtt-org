@@ -1,6 +1,10 @@
 {
     "recommendations": [
+<<<<<<< HEAD
         "ms-vscode.powershell",
         "teamsdevapp.ms-teams-vscode-extension"
+=======
+        "ms-vscode.powershell"
+>>>>>>> edd62f86662a283d3c23cb491b9d20fc30a9685b
     ]
 }
