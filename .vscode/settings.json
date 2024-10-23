@@ -58,6 +58,10 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "compile-hero.disable-compile-files-on-did-save-code": false,
   "dbt.enableNewLineagePanel": false,
+<<<<<<< HEAD
   "cSpell.language": "en,en-US",
   "azureAutomation.directory.basePath": "c:\\Program Files\\Microsoft VS Code"
+=======
+  "cSpell.language": "en,en-US"
+>>>>>>> 6cb41a8f05b3152a41e98d41e827af4cd37a68f5
 }
